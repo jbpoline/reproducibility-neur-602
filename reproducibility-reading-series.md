@@ -13,7 +13,9 @@ Reproducibility in life sciences: some background
 * Baggerly and Coombes, 2009: Forensic analysis    
 
 #### Installation / Bash (Greg) / how do we work
-
+- installing a linux environment
+- installing virtual machine (virtual box)
+- installing containers
 
 ### Sept. 13: General description of the issue and a first open science response 
 
@@ -85,7 +87,7 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
-#### Containers (Greg)
+#### Containers (Greg K)
 
 ### Nov 15: Some Computational aspects
 
@@ -97,7 +99,7 @@ Neuroimaging specific
 
 
 
-#### containers step 2 : Greg 
+#### Containers step 2 : Greg 
 
 ### Nov 22: Examples of replications and of reproducible articles
 
