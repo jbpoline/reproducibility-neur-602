@@ -12,11 +12,16 @@ Reproducibility in life sciences: some background
 
 * Baggerly and Coombes, 2009: Forensic analysis    
 
+#### Installation / Bash (Greg) / how do we work
+
+
 ### Sept. 13: General description of the issue and a first open science response 
 
 * Academy of Medical Science: Reproducibility and Reliability of Biomedical Research, 2015
 
 * Nosek 2015: the reproducibility project
+
+#### Git (JB)
 
 ### Sept. 20: Some sociological and general aspects
 
@@ -24,11 +29,15 @@ Reproducibility in life sciences: some background
 
 * Allison 2016, a tragedy of errors
 
+#### Github - version control (JB)
+
 ### Sept. 27: Some general solutions and principles
 
 * Wilkinson Mark D, 2016: The FAIR principles
 
 * Bosman et al., 2017: The scholarly common principles
+
+#### Github - (ED) collaboration 
 
 Some statistical aspects
 ------------------------------------------------------
@@ -39,11 +48,15 @@ Some statistical aspects
 
 * Button et al., 2013: Power failure
 
+#### Intro python   
+
 ### Oct. 11: Power issues: the more recent reports 
 
 * Poldrack, 2017, Scanning the horizon (fMRI)
 
 * Dumas-Mallet, 2017: Three biomedical examples
+
+#### PARMITA ? Force 11 ?
 
 ### Oct. 18: Related to publishing and statistical procedures 
 
@@ -51,11 +64,17 @@ Some statistical aspects
 
 * Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve" 
 
+#### Power: do it youself in python (JB to check if I can make them go to F11) / ask Parmita / - shiny apps / cohen-d / Greg / ED there
+
 ### Oct. 25: Proposal for redefining p-values and response
 
 * Benjamin et al., 2017: Redefining p-value
 
 * Lakens et al., 2017: Justify your alpha
+
+#### p-hacking : Willie
+
+
 
 Neuroimaging specific
 ------------------------------------------------------
@@ -66,6 +85,8 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
+#### Containers (Greg)
+
 ### Nov 15: Some Computational aspects
 
 * Glatard et al., 2015: OS dependencies
@@ -74,18 +95,25 @@ Neuroimaging specific
 
 * Carp J.  2012: pipeline flexibility
 
+
+
+#### containers step 2 : Greg 
+
 ### Nov 22: Examples of replications and of reproducible articles
 
 * Boekel et al, 2013: A pure replication study
 
 * Waskom et al: an entirely reproducible article
 
+#### Case study : can we reproduce a study ? (all - one good and one bad ?)
+
 ### Nov 29: Community based standards
 
 * Nichols et al., The cobidas report 
 
 * Gorgolevski et al.: The Brain Imaging Data Structure standard
- 
+
+####  
 
 ## Bibliography 
 
