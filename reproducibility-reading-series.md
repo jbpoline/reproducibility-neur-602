@@ -12,7 +12,11 @@ Reproducibility in life sciences: some background
 
 * Baggerly and Coombes, 2009: Forensic analysis    
 
-PRACTICAL: Environment set-up, introduction to bash
+PRACTICAL: Environment set-up, introduction to bash (GK)
+
+- Installing a unix system
+- What is shell ?
+- [SWC BASH intro](http://swcarpentry.github.io/shell-novice/)
 
 ### Sept. 13: General description of the issue and a first open science response
 
@@ -20,7 +24,11 @@ PRACTICAL: Environment set-up, introduction to bash
 
 * Nosek 2015: the reproducibility project
 
-PRACTICAL: Finish bash, git for version control
+PRACTICAL: Finish bash, git for version control (JBP)
+
+- Any remaining bash questions
+- Repository, commit, branches / tags, remotes, working tree
+- [SWC Git intro](https://swcarpentry.github.io/git-novice/)
 
 ### Sept. 20: Some sociological and general aspects
 
@@ -30,13 +38,16 @@ PRACTICAL: Finish bash, git for version control
 
 PRACTICAL: Github for collaboration
 
+- Any remaining git questions
+- Mozilla open leadership [Introduction to GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)
+
 ### Sept. 27: Some general solutions and principles
 
 * Wilkinson Mark D, 2016: The FAIR principles
 
 * Bosman et al., 2017: The scholarly common principles
 
-PRACTICAL: Introduction to python
+PRACTICAL: Introduction to python / Contd., Git / GitHub
 
 Some statistical aspects
 ------------------------------------------------------
@@ -47,7 +58,9 @@ Some statistical aspects
 
 * Button et al., 2013: Power failure
 
-PRACTICAL: Statistics in python
+PRACTICAL: Intro to python / Statistics in python [EMD]
+
+- [Scipy lecture notes](http://www.scipy-lectures.org/packages/statistics/index.html) for statistics in python
 
 ### Oct. 11: Power issues: the more recent reports
 
@@ -71,7 +84,13 @@ PRACTICAL: No practical; guest lecture
 
 * Lakens et al., 2017: Justify your alpha
 
-PRACTICAL: Introduction to R and p-hacking
+PRACTICAL: Introduction to p-hacking
+
+Ideas:
+- Anisha's [p-hacking app](https://anisha.pizza/braindr-results/#/)
+- P-hacking [shiny app](http://shinyapps.org/apps/p-hacker/)
+
+AS A STRETCH GOAL : Meta-analysis
 
 Neuroimaging specific
 ------------------------------------------------------
@@ -82,7 +101,11 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
-PRACTICAL: Introduction to containers
+PRACTICAL: Introduction to containers [Greg]
+
+- What is a container ?
+- Introduction to docker
+ - [Docker for scientists](https://neurohackweek.github.io/docker-for-scientists/)
 
 ### Nov 15: Some Computational aspects
 
@@ -92,7 +115,7 @@ PRACTICAL: Introduction to containers
 
 * Carp J.  2012: pipeline flexibility
 
-PRACTICAL: Containers, continued
+PRACTICAL: Containers, continued [Greg]
 
 ### Nov 22: Examples of replications and of reproducible articles
 
@@ -100,7 +123,7 @@ PRACTICAL: Containers, continued
 
 * Waskom et al: an entirely reproducible article
 
-PRACTICAL: Group projects
+PRACTICAL: Group projects, can you reproduce a paper ?
 
 ### Nov 29: Community based standards
 
@@ -108,7 +131,7 @@ PRACTICAL: Group projects
 
 * Gorgolevski et al.: The Brain Imaging Data Structure standard
 
-PRACTICAL: Submit reports
+PRACTICAL: Group projects, continued
 
 
 ## Bibliography
