@@ -24,6 +24,8 @@ Reproducibility in life sciences: some background
 * Nosek 2015: the reproducibility project
 
 #### Git (JB)
+- checking on bash
+- introduction to git (concepts) 
 
 ### Sept. 20: Some sociological and general aspects
 
@@ -32,6 +34,10 @@ Reproducibility in life sciences: some background
 * Allison 2016, a tragedy of errors
 
 #### Github - version control (JB)
+- github markdown
+- Forking
+- Pull requesting
+- issues / code review 
 
 ### Sept. 27: Some general solutions and principles
 
@@ -40,6 +46,8 @@ Reproducibility in life sciences: some background
 * Bosman et al., 2017: The scholarly common principles
 
 #### Github - (ED) collaboration 
+- More on git and github : some specific exercises 
+- intro to python
 
 Some statistical aspects
 ------------------------------------------------------
@@ -50,7 +58,9 @@ Some statistical aspects
 
 * Button et al., 2013: Power failure
 
-#### Intro python   
+#### Intro to python / stats in python (ED)
+- statsmodel 
+
 
 ### Oct. 11: Power issues: the more recent reports 
 
@@ -58,15 +68,16 @@ Some statistical aspects
 
 * Dumas-Mallet, 2017: Three biomedical examples
 
-#### PARMITA ? Force 11 ?
+#### Force 11 (JB)
+#### Alternative: ?  
 
-### Oct. 18: Related to publishing and statistical procedures 
+### Oct. 18:  PARAMITA  
 
 * Rosenthal, 1979: The file drawer effect
 
 * Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve" 
 
-#### Power: do it youself in python (JB to check if I can make them go to F11) / ask Parmita / - shiny apps / cohen-d / Greg / ED there
+#### Paramita to decide on the praticals
 
 ### Oct. 25: Proposal for redefining p-values and response
 
@@ -74,9 +85,7 @@ Some statistical aspects
 
 * Lakens et al., 2017: Justify your alpha
 
-#### p-hacking : Willie
-
-
+#### p-hacking in python (if possible) : Willie
 
 Neuroimaging specific
 ------------------------------------------------------
@@ -87,7 +96,7 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
-#### Containers (Greg K)
+#### Intro to Containers (Greg K)
 
 ### Nov 15: Some Computational aspects
 
@@ -97,9 +106,7 @@ Neuroimaging specific
 
 * Carp J.  2012: pipeline flexibility
 
-
-
-#### Containers step 2 : Greg 
+#### Containers step 2  (Greg K)
 
 ### Nov 22: Examples of replications and of reproducible articles
 
@@ -107,7 +114,8 @@ Neuroimaging specific
 
 * Waskom et al: an entirely reproducible article
 
-#### Case study : can we reproduce a study ? (all - one good and one bad ?)
+#### Case study: can we reproduce a study ? (all - one good and one bad ?)
+- this will be a little project
 
 ### Nov 29: Community based standards
 
