@@ -12,9 +12,8 @@ Reproducibility in life sciences: some background
 
 * Baggerly and Coombes, 2009: Forensic analysis    
 
-PRACTICAL: Environment set-up, introduction to bash (GK)
-
-- Installing a unix system
+#### PRACTICAL: Environment set-up, introduction to bash (GK)
+- Installing a unix system (VM)
 - What is shell ?
 - [SWC BASH intro](http://swcarpentry.github.io/shell-novice/)
 
@@ -24,9 +23,9 @@ PRACTICAL: Environment set-up, introduction to bash (GK)
 
 * Nosek 2015: the reproducibility project
 
-PRACTICAL: Finish bash, git for version control (JBP)
-
+#### PRACTICAL: Finish bash, git for version control (JBP)
 - Any remaining bash questions
+- introduction to git (concepts) 
 - Repository, commit, branches / tags, remotes, working tree
 - [SWC Git intro](https://swcarpentry.github.io/git-novice/)
 
@@ -36,9 +35,11 @@ PRACTICAL: Finish bash, git for version control (JBP)
 
 * Allison 2016, a tragedy of errors
 
-PRACTICAL: Github for collaboration
-
+#### PRACTICAL: Github for collaboration (JB)
 - Any remaining git questions
+- github markdown
+- Forking; Pull requesting
+- Issues / code review 
 - Mozilla open leadership [Introduction to GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)
 
 ### Sept. 27: Some general solutions and principles
@@ -47,7 +48,10 @@ PRACTICAL: Github for collaboration
 
 * Bosman et al., 2017: The scholarly common principles
 
-PRACTICAL: Introduction to python / Contd., Git / GitHub
+#### PRACTICAL: Introduction to python / Contd., Git / GitHub (ED) 
+- More on git and github : some specific exercises 
+- intro to python
+
 
 Some statistical aspects
 ------------------------------------------------------
@@ -58,9 +62,10 @@ Some statistical aspects
 
 * Button et al., 2013: Power failure
 
-PRACTICAL: Intro to python / Statistics in python [EMD]
-
+#### PRACTICAL: Intro to python / Statistics in python [EMD]
+- statsmodel 
 - [Scipy lecture notes](http://www.scipy-lectures.org/packages/statistics/index.html) for statistics in python
+
 
 ### Oct. 11: Power issues: the more recent reports
 
@@ -68,15 +73,17 @@ PRACTICAL: Intro to python / Statistics in python [EMD]
 
 * Dumas-Mallet, 2017: Three biomedical examples
 
-PRACTICAL: FORCE11 conference
+#### PRACTICAL: cf Force 11 conference (JB)
+  
 
-### Oct. 18: Related to publishing and statistical procedures
+### Oct. 18:  Guest lecture Paramita S. Chaudhuri: statistical aspects of reproducibility
 
 * Rosenthal, 1979: The file drawer effect
 
 * Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve"
 
-PRACTICAL: No practical; guest lecture
+#### PRACTICAL: To be definied; guest lecture
+
 
 ### Oct. 25: Proposal for redefining p-values and response
 
@@ -84,13 +91,11 @@ PRACTICAL: No practical; guest lecture
 
 * Lakens et al., 2017: Justify your alpha
 
-PRACTICAL: Introduction to p-hacking
-
+#### PRACTICAL: Introduction to p-hacking (python): Willie
 Ideas:
 - Anisha's [p-hacking app](https://anisha.pizza/braindr-results/#/)
 - P-hacking [shiny app](http://shinyapps.org/apps/p-hacker/)
 
-AS A STRETCH GOAL : Meta-analysis
 
 Neuroimaging specific
 ------------------------------------------------------
@@ -101,7 +106,7 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
-PRACTICAL: Introduction to containers [Greg]
+#### PRACTICAL: Introduction to containers [Greg]
 
 - What is a container ?
 - Introduction to docker
@@ -115,7 +120,7 @@ PRACTICAL: Introduction to containers [Greg]
 
 * Carp J.  2012: pipeline flexibility
 
-PRACTICAL: Containers, continued [Greg]
+#### PRACTICAL: Containers, continued [Greg]
 
 ### Nov 22: Examples of replications and of reproducible articles
 
@@ -123,7 +128,8 @@ PRACTICAL: Containers, continued [Greg]
 
 * Waskom et al: an entirely reproducible article
 
-PRACTICAL: Group projects, can you reproduce a paper ?
+#### PRACTICAL: Group projects, can you reproduce a paper ?
+- Choosing an article to "reproduce"
 
 ### Nov 29: Community based standards
 
@@ -131,7 +137,7 @@ PRACTICAL: Group projects, can you reproduce a paper ?
 
 * Gorgolevski et al.: The Brain Imaging Data Structure standard
 
-PRACTICAL: Group projects, continued
+####  PRACTICAL: Group projects, continued
 
 
 ## Bibliography
