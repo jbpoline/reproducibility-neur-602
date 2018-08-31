@@ -1,7 +1,7 @@
 Addressing reproducibility in the neurosciences and neuroimaging: Statistical, computational and sociological aspects
 ===================================================================
 
-This series of journal club readings will give students a solid background in the reproducibility and replication issues in the neurosciences and brain imaging, and introduce solutions that can be implemented for reproducible and replicable science. The statistical, methodological, computational and sociological aspects of the topic will be reviewed through these articles, as well as the implementation of solutions. After this course, students should be able to identify reproducibility issues in neuroscience literature and apply the principles of reproducible, reusable, and efficient research in their work. 
+This series of journal club readings will give students a solid background in the reproducibility and replication issues in the neurosciences and brain imaging, and introduce solutions that can be implemented for reproducible and replicable science. The statistical, methodological, computational and sociological aspects of the topic will be reviewed through these articles, as well as the implementation of solutions. After this course, students should be able to identify reproducibility issues in neuroscience literature and apply the principles of reproducible, reusable, and efficient research in their work.
 
 Reproducibility in life sciences: some background
 ------------------------------------------------------
@@ -12,11 +12,23 @@ Reproducibility in life sciences: some background
 
 * Baggerly and Coombes, 2009: Forensic analysis    
 
-### Sept. 13: General description of the issue and a first open science response 
+PRACTICAL: Environment set-up, introduction to bash (GK)
+
+- Installing a unix system
+- What is shell ?
+- [SWC BASH intro](http://swcarpentry.github.io/shell-novice/)
+
+### Sept. 13: General description of the issue and a first open science response
 
 * Academy of Medical Science: Reproducibility and Reliability of Biomedical Research, 2015
 
 * Nosek 2015: the reproducibility project
+
+PRACTICAL: Finish bash, git for version control (JBP)
+
+- Any remaining bash questions
+- Repository, commit, branches / tags, remotes, working tree
+- [SWC Git intro](https://swcarpentry.github.io/git-novice/)
 
 ### Sept. 20: Some sociological and general aspects
 
@@ -24,38 +36,61 @@ Reproducibility in life sciences: some background
 
 * Allison 2016, a tragedy of errors
 
+PRACTICAL: Github for collaboration
+
+- Any remaining git questions
+- Mozilla open leadership [Introduction to GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)
+
 ### Sept. 27: Some general solutions and principles
 
 * Wilkinson Mark D, 2016: The FAIR principles
 
 * Bosman et al., 2017: The scholarly common principles
 
+PRACTICAL: Introduction to python / Contd., Git / GitHub
+
 Some statistical aspects
 ------------------------------------------------------
 
-### Oct. 4: Power issues: the initial reports 
+### Oct. 4: Power issues: the initial reports
 
 * Ioannidis 2005: Why most research results are false
 
 * Button et al., 2013: Power failure
 
-### Oct. 11: Power issues: the more recent reports 
+PRACTICAL: Intro to python / Statistics in python [EMD]
+
+- [Scipy lecture notes](http://www.scipy-lectures.org/packages/statistics/index.html) for statistics in python
+
+### Oct. 11: Power issues: the more recent reports
 
 * Poldrack, 2017, Scanning the horizon (fMRI)
 
 * Dumas-Mallet, 2017: Three biomedical examples
 
-### Oct. 18: Related to publishing and statistical procedures 
+PRACTICAL: FORCE11 conference
+
+### Oct. 18: Related to publishing and statistical procedures
 
 * Rosenthal, 1979: The file drawer effect
 
-* Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve" 
+* Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve"
+
+PRACTICAL: No practical; guest lecture
 
 ### Oct. 25: Proposal for redefining p-values and response
 
 * Benjamin et al., 2017: Redefining p-value
 
 * Lakens et al., 2017: Justify your alpha
+
+PRACTICAL: Introduction to p-hacking
+
+Ideas:
+- Anisha's [p-hacking app](https://anisha.pizza/braindr-results/#/)
+- P-hacking [shiny app](http://shinyapps.org/apps/p-hacker/)
+
+AS A STRETCH GOAL : Meta-analysis
 
 Neuroimaging specific
 ------------------------------------------------------
@@ -66,6 +101,12 @@ Neuroimaging specific
 
 * Varoquaux 2018: Cross-validation failure
 
+PRACTICAL: Introduction to containers [Greg]
+
+- What is a container ?
+- Introduction to docker
+ - [Docker for scientists](https://neurohackweek.github.io/docker-for-scientists/)
+
 ### Nov 15: Some Computational aspects
 
 * Glatard et al., 2015: OS dependencies
@@ -74,20 +115,26 @@ Neuroimaging specific
 
 * Carp J.  2012: pipeline flexibility
 
+PRACTICAL: Containers, continued [Greg]
+
 ### Nov 22: Examples of replications and of reproducible articles
 
 * Boekel et al, 2013: A pure replication study
 
 * Waskom et al: an entirely reproducible article
 
+PRACTICAL: Group projects, can you reproduce a paper ?
+
 ### Nov 29: Community based standards
 
-* Nichols et al., The cobidas report 
+* Nichols et al., The cobidas report
 
 * Gorgolevski et al.: The Brain Imaging Data Structure standard
- 
 
-## Bibliography 
+PRACTICAL: Group projects, continued
+
+
+## Bibliography
 
 Baggerly, Keith A., and Kevin R. Coombes. 2009. “Deriving Chemosensitivity from Cell Lines: Forensic Bioinformatics and Reproducible Research in High-Throughput Biology.” The Annals of Applied Statistics 3 (4): 1309–34. https://doi.org/10.1214/09-AOAS291.
 
@@ -140,5 +187,3 @@ Waskom, M. L., D. Kumaran, A. M. Gordon, J. Rissman, and A. D. Wagner. 2014. “
 Nichols, Thomas E., Samir Das, Simon B. Eickhoff, Alan C. Evans, Tristan Glatard, Michael Hanke, Nikolaus Kriegeskorte, et al. 2017. “Best Practices in Data Analysis and Sharing in Neuroimaging Using MRI.” Comments and Opinion. Nature Neuroscience. February 23, 2017. https://doi.org/10.1038/nn.4500.
 
 Gorgolewski, Krzysztof J., Tibor Auer, Vince D. Calhoun, R. Cameron Craddock, Samir Das, Eugene P. Duff, Guillaume Flandin, et al. 2016. “The Brain Imaging Data Structure, a Format for Organizing and Describing Outputs of Neuroimaging Experiments.” Scientific Data 3 (June): 160044. https://doi.org/10.1038/sdata.2016.44.
-
-
