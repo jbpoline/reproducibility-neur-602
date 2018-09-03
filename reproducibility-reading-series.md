@@ -82,7 +82,7 @@ Some statistical aspects
 
 * Simonsohn Simmons 2011, Simonsohn 2014: "P-hacking" and "P-curve"
 
-#### PRACTICAL: To be definied; guest lecture
+#### PRACTICAL: To be defined; guest lecture
 
 
 ### Oct. 25: Proposal for redefining p-values and response
